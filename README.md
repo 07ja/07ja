@@ -36,25 +36,14 @@ I’m a **third-year Software Engineering student at the University of Calgary**
 ---
 
 ## ⚙️ My Work
-<table align="center">
+<div align="center">
 
-  <tr>
-  <td align="center" valign="middle" style="padding-top: 50px;">
-    <a href="https://github.com/07ja/BonoGPT"><img src="assets/BonoGPT.png" width="500px"> </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/07ja/Movie-Theatre-System"><img src="assets/Movie-Theatre-System.png" width="500px"></a>
-  </td>
-  </tr>
+  <a href="https://github.com/07ja/BonoGPT"><img src="assets/BonoGPT.png"></a>
+  <a href="https://github.com/07ja/Movie-Theatre-System"><img src="assets/Movie-Theatre-System.png"></a>
 
-  <tr>
-  <td align="center">
-    <a href="https://github.com/07ja/Pong-C"><img src="assets/Pong-C.gif" width="500px"> </a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/07ja/Snake-C"><img src="assets/Snake-C.gif" width="500px"></a>
-  </td>
-  </tr>
+  <a href="https://github.com/07ja/Pong-C"><img src="assets/Pong-C.gif"></a>
+  <a href="https://github.com/07ja/Snake-C"><img src="assets/Snake-C.gif"></a>
+  
 
-</table>
+</div>
 
