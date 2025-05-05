@@ -38,12 +38,11 @@ I’m a **third-year Software Engineering student at the University of Calgary**
 ## ⚙️ My Work
 <div align="center">
 
-  <a href="https://github.com/07ja/BonoGPT"><img src="assets/BonoGPT.png"></a>
-  <a href="https://github.com/07ja/Movie-Theatre-System"><img src="assets/Movie-Theatre-System.png"></a>
+  <a href="https://github.com/07ja/BonoGPT"><img src="assets/BonoGPT.png" width="490x"></a>
+  <a href="https://github.com/07ja/Movie-Theatre-System"><img src="assets/Movie-Theatre-System.png" width="490px"></a>
 
-  <a href="https://github.com/07ja/Pong-C"><img src="assets/Pong-C.gif"></a>
-  <a href="https://github.com/07ja/Snake-C"><img src="assets/Snake-C.gif"></a>
+  <a href="https://github.com/07ja/Pong-C"><img src="assets/Pong-C.gif" width="490px"></a>
+  <a href="https://github.com/07ja/Snake-C"><img src="assets/Snake-C.gif" width="490px"></a>
   
-
 </div>
 
