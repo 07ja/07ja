@@ -26,7 +26,8 @@ I’m a **fourth-year Software Engineering student at the University of Calgary*
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
 <br>
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" style="margin-left:171px">
+<span style="display:inline-block; width:167px;"></span>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white">
 
 
 <b>DevOps Tools:</b>
