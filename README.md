@@ -22,11 +22,16 @@ I’m a **fourth-year Software Engineering student at the University of Calgary*
 <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat&logo=opengl&logoColor=white">
+<img src="https://img.shields.io/badge/SDL3-0A74DA?style=flat&logo=sdl&logoColor=white">
+<img src="https://img.shields.io/badge/OpenCL-0091BD?style=flat&logo=opencl&logoColor=white">
+<img src="https://img.shields.io/badge/ImGui-3C3C3C?style=flat&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB">
-<br>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white">
+
 
 <b>DevOps Tools:</b>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
